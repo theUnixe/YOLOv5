@@ -2,7 +2,6 @@
 
 *Source Code: https://colab.research.google.com/drive/1D5M_-aVm2K13XokKaA9FY3oqrPG28S8E
 
-## Demo of Object Tracker on Persons                                                                                    <p align="center"><img src="data/helpers/demo.gif"\></p>                                                                                                                                                                                        ## Demo of Object Tracker on Cars                                                                                       <p align="center"><img src="data/helpers/cars.gif"\></p>  
 
 # Yolo v4, v3 and v2 for Windows and Linux
 
