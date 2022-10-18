@@ -2,8 +2,7 @@
 
 *Source Code: https://colab.research.google.com/drive/1D5M_-aVm2K13XokKaA9FY3oqrPG28S8E
 
-#Watch Video For Object Detection
-![Watch the video](https://youtu.be/dpU_-eSuwEs)
+
 
 # Yolo v4, v3 and v2 for Windows and Linux
 
